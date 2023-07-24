@@ -5,6 +5,7 @@ This script on WinApi and Cpp checking exising of dll injection in Windows 10
 Firstly, you can use the following commands on Ubuntu:
 
 sudo apt update
+
 sudo apt install mingw-w64
 
 This commands needed to compile the script and create exe file to your Windows System.
