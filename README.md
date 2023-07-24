@@ -10,6 +10,7 @@ sudo apt install mingw-w64
 This commands needed to compile the script and create exe file to your Windows System.
 
 Then, you can compile the script with following command and setuped MinGW:
+
 x86_64-w64-mingw32-g++ -o dll_injection.exe dll_injection.cpp -lpsapi
 
 Lastly, copy the exe file to the Windows system and run it, and before copying, disable the Windows Defender
