@@ -1,5 +1,5 @@
 # dll_injection_checker
-This script on WinApi and Cpp checking exising of dll injection in Windows 10
+This script on WinApi and cpp checking existing of dll injection in Windows 10
 
 # how to use this script?
 Firstly, you can use the following commands on Ubuntu:
