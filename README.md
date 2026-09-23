@@ -1,4 +1,4 @@
-# dll_injection_checker
+# BinGuardian
 This script on WinApi and cpp checking existing of dll injection in Windows 10
 
 # how to use this script?
